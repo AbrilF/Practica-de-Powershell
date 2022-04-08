@@ -62,7 +62,7 @@ $stringOfCharacters.ToCharArray() | ForEach-Object { Write-Host "$_" }
 
 ```
 ---
-### Script de powershell 2
+### Script de powershell 3
 
 ```
 
